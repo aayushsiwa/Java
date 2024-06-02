@@ -340,8 +340,6 @@
     - Input: Thread name, Counter range
     - Output: Counter display
 
-    ![10-2](/assets/10-1.png)
-
 2. **Synchronization Demo**
 
     ![10-2](/assets/10-2.png)
